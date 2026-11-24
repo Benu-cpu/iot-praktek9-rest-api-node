@@ -1,7 +1,7 @@
 # Tugas Praktek 9 — REST API Node-RED untuk Sistem IoT
 
-**Nama:** _M. Ibnu_  
-**NPM:** _2410010254_  
+**Nama:** M. Ibnu  
+**NPM:** 2410010254  
 **Mata kuliah:** IoT
 
 Sistem monitoring & kontrol IoT dengan alur:
